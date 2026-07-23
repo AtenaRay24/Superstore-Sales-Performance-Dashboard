@@ -63,3 +63,7 @@ Examines:
 - Sales by Segment
 - Profit by Segment
 - Top 10 Customers by Sales
+
+
+## Author
+Atena Rayson
